@@ -7,6 +7,7 @@ Step 2 sudo chmod 777 ruoting.sh
 
 Execute ./routing.sh
 
+if your script does not work change eth1 to your network card for internet output e.g. ens33 or ens38 
 
 Thanks for your help and support
 
