@@ -1,4 +1,7 @@
 # routing-sh
+
+IN MAINTENANCE WAIT FOR THE ADMINISTRATOR TO HAVE TIME :)
+
 Automatic routing script on your Linux  
 
 First step git clone https://github.com/antonio-moreno/routing-sh | cd routing-sh 
